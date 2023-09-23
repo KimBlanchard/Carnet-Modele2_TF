@@ -1,28 +1,32 @@
 ---
-title: "Titre"
+title: "Le soleil"
 date: 2019-02-14T15:36:09-06:00
-tags: [blabla, récurrent]
+tags: [poème, 2010]
 toc: true
 theme: "exemple"
 ---
+Jaune, parfois orange
+Chaud 
+brillant
+Aveuglant
+Une étoile
+Que ne peut être sanglante
+Telle une force divine
+Il nous attire
+De cire, personnellement
+J'aimerais qu'il soit
+
+Toujours là, toujours présent
+Comme un ami, le meilleur
+Partout, il nous suit
+jusqu'à miami
+Qui est-ce?
+Difficile
+Chaud, brillant
+Unique
+Une étoile
+Le soleil
+
 
 <!--la métadonnée ajoutée "theme" peut être ajoutée à d'autres fichiers du dossier posts si voulu-->
-
-{{< blockquote author="Alan Turing, *Je suis intelligent*" >}}
-La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
-{{< /blockquote >}}
-
-<!--cette image se trouve à la source des contenus-->
-![image.jpg](../image.jpg)
-
-
-<!-- si jamais je souhaite afficher l'image du bug, le code est le suivant : 
-
-![bug.jpg](../images/bug.jpg)
-
-et si jamais je souhaite afficher l'image logo du site, le code est le suivant : 
-
-![logo.png](../images/logo.png)
-
-
 -->
