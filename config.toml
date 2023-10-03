@@ -1,7 +1,7 @@
 baseURL = "https://kimblanchard.github.io/Carnet-Modele2_TF/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Titre"
+title = "Carnet d'écriture"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
